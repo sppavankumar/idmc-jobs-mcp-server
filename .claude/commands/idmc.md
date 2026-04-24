@@ -2,7 +2,7 @@
 
 > Agent skill that routes natural language job management requests to the correct `idmc-jobs` MCP tool, covering authentication, job start/stop, status checks, and activity log queries for Informatica IDMC.
 
-**Author:** Pavan Kumar SP (psomaprabhu@salesforce.com)
+**Author:** Pavan Kumar SP
 
 Use this skill to monitor and manage Informatica IDMC jobs via the `idmc-jobs` MCP server.
 
