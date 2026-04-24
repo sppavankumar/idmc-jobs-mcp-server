@@ -6,7 +6,7 @@
 
 **Document Version:** 1.0  
 **Date:** 2026-04-23  
-**Prepared By:** Pavan Kumar SP (psomaprabhu@salesforce.com)  
+**Prepared By:** Pavan Kumar SP  
 **Status:** Draft — For Internal Review  
 **Intended Audience:** Product, Engineering, Pre-Sales, Customer Success
 
@@ -944,7 +944,7 @@ The following runs all failed with an identical file-lock error on Capital One C
 
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
-| 1.0 | 2026-04-23 | Pavan Kumar SP (psomaprabhu@salesforce.com) | Initial draft |
+| 1.0 | 2026-04-23 | Pavan Kumar SP | Initial draft |
 
 **Next Steps:**
 1. Share with Data Engineering Lead for technical review

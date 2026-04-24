@@ -3,7 +3,7 @@
  * @description HTTP client for the Informatica IDMC REST API that handles session
  *              authentication, job lifecycle operations (start/stop), and activity
  *              log queries with typed request/response interfaces.
- * @author Pavan Kumar SP <psomaprabhu@salesforce.com>
+ * @author Pavan Kumar SP
  */
 import axios, { AxiosInstance, AxiosError } from "axios";
 

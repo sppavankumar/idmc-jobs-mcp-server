@@ -2,7 +2,7 @@
 
 > MCP server that exposes Informatica IDMC job management — authentication, start/stop, status monitoring, and activity log querying — as AI-callable tools via the Model Context Protocol.
 
-**Author:** Pavan Kumar SP · psomaprabhu@salesforce.com
+**Author:** Pavan Kumar SP
 
 A Model Context Protocol (MCP) server for monitoring and managing jobs on the **Informatica Intelligent Data Management Cloud (IDMC)** platform.
 

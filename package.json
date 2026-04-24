@@ -13,7 +13,7 @@
     "prepare": "npm run build"
   },
   "keywords": ["mcp", "informatica", "idmc", "jobs", "monitoring"],
-  "author": "Pavan Kumar SP <psomaprabhu@salesforce.com>",
+  "author": "Pavan Kumar SP",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {

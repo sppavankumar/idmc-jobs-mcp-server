@@ -9,6 +9,10 @@ dist/
 .env.local
 .env.*.local
 mcp.json
+.mcp.json
+
+# Claude local settings (machine-specific)
+.claude/settings.local.json
 
 # OS files
 .DS_Store

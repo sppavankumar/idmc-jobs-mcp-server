@@ -4,7 +4,7 @@
  * @description MCP server entry point that exposes Informatica IDMC job management
  *              capabilities (start, stop, monitor, and query job history) as callable
  *              tools via the Model Context Protocol over stdio transport.
- * @author Pavan Kumar SP <psomaprabhu@salesforce.com>
+ * @author Pavan Kumar SP
  */
 import { Server } from "@modelcontextprotocol/sdk/server/index.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";

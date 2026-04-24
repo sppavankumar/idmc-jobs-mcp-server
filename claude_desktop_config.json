@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "idmc-jobs": {
+    "idmc-jobs-mcp-server": {
       "command": "node",
       "args": ["/path/to/idmc-jobs-mcp-server/dist/index.js"],
       "env": {
