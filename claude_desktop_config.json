@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "idmc-jobs": {
+      "command": "node",
+      "args": ["/path/to/idmc-jobs-mcp-server/dist/index.js"],
+      "env": {
+        "IDMC_USERNAME": "your-email@example.com",
+        "IDMC_PASSWORD": "your-password",
+        "IDMC_BASE_URL": "https://dm-us.informaticacloud.com"
+      }
+    }
+  }
+}
