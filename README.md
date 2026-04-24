@@ -1,10 +1,12 @@
-# IDMC Jobs MCP Server
+# IDMC Jobs MCP Server with Claude Skills
 
 > MCP server that exposes Informatica IDMC job management — authentication, start/stop, status monitoring, and activity log querying — as AI-callable tools via the Model Context Protocol.
 
 **Author:** Pavan Kumar SP
 
 A Model Context Protocol (MCP) server for monitoring and managing jobs on the **Informatica Intelligent Data Management Cloud (IDMC)** platform.
+
+This project includes a **Claude Skill** that lets you interact with IDMC jobs using natural language directly inside Claude or Cursor. Use the `/idmc` slash command to start/stop jobs, check status, query the activity log, and more — without writing any code. See the [Claude Skill reference](.claude/commands/idmc.md) for the full intent-to-tool mapping and example interactions.
 
 ## Features
 
